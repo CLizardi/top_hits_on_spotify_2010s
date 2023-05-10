@@ -1,4 +1,4 @@
-# Top Hits on Spotify (2000-2010s)1
+# Top Hits on Spotify (2000-2010s)
 ![alexander-shatov-w-qqwn5O-4I-unsplash](https://user-images.githubusercontent.com/52866379/237013197-63ea689e-db51-4c2a-a80e-bbf720c75066.jpg)
 
 # Introduction
